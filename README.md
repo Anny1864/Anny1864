@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Anny
 - 👀 I’m interested in em fazer programações e fazer sites
 - 🌱 I’m currently learning animações
-- 💞️ I’m looking to collaborate on...
+- 💞️ I’m looking to collaborate on em grupo
 - 📫 How to reach me anny.oliveira.rodrigues@escola.pr.gov.br
 
 <!---
